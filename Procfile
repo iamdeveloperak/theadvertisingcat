@@ -1,0 +1,1 @@
+web: gunicorn rjautomotives.wsgi --log-file -
